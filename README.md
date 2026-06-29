@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=%3E_Hello%2C+World!;%3E_I'm+SplexDev;%3E_Fullstack+Developer;%3E_System+Admin" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=%3E_Hello%2C+World!;%3E_I'm+SplexDev;%3E_Desenvolvedor+J%C3%BAnior;%3E_Sempre+Aprendendo" alt="Typing SVG" />
   </a>
 </div>
 
@@ -11,9 +11,9 @@
 ```bash
 #!/bin/bash
 export NAME="SplexDev"
-export ROLE="Desenvolvedor & Engenheiro de Software"
+export ROLE="Desenvolvedor Júnior / Em Formação"
 export DISCORD="@81163"
-export STATUS="Construindo sistemas, quebrando a matrix"
+export STATUS="Aprendendo a construir sistemas e entender a matrix"
 
 function get_skills() {
     echo "React" "TypeScript" "Node.js" "Supabase" "MongoDB" "Discord.js"
